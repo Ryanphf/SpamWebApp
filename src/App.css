@@ -47,3 +47,7 @@ table {
 h1 {
   text-align: center;
 }
+image {
+  padding: 20px;
+  margin-bottom: 50%;
+}
